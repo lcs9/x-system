@@ -1,5 +1,17 @@
 class HomeController < ApplicationController
 	def index
-		render json: {status: 200}
+		users = User.all
+		render json: users
+	end
+
+	def show 
+		user = User.getRaphael
+		render json: users
+	end
+
+	def update
+	end
+
+	def delete
 	end
 end
