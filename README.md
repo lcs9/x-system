@@ -31,11 +31,7 @@ Além disso, o sistema atual, PontoWeb, não oferece opções necessárias para 
 
 
 
-# Ferramentas Ultilizadas
-- Gerenciamento de atividades: [Trello](https://trello.com/b/ajdE1DaT/engenharia-de-software)
-- Comunicação interna: Whatssap
-- Cronograma de Atividades: [Google Sheets](http://bit.do/eMZEi)
-- Compartilhamento de arquivos:Google Drive
+
 
 # Grupo
 - Livio Cavalcanti(lcs9@cin.ufpe.br)
