@@ -1,4 +1,4 @@
-# Historia do usuário - Gestão de frequência -
+# História de usuário - Gestão de frequência -
 ---
 ##### _v.1.0_
 
