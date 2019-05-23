@@ -28,8 +28,8 @@ O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo co
 A UFPE utiliza atualmente, um sistema de frequência da empresa AHGORA, para colher as informações dos técnicos-administrativos da Universidade. Entretanto, está sendo feita a implementação gradual do sistema SIGAA, criado pela UFRN, que contém um módulo de frequência. A intenção dos responsáveis pelo controle de frequência, é, manter os dois sistemas. Por isso os dados do Sistema PontoWeb, devem estar sempre atualizados e equivalentes com os do SIGRH que é o módulo de frequência do SIGAA.
 Além disso, o sistema atual, PontoWeb, não oferece opções necessárias para os tipos de relatório que o gestor demanda. Isso faz com que parte desses relatórios seja criada atualmente de forma manual, o que demanda muito tempo e recursos humanos. Por isso é importante a construção desta funcionalidade no software a ser criado.
 
-# Historia do usuario
-- [Todas Histórias do usuário estão aqui](https://github.com/rcra92/x-system/blob/master/Historia_do_usuario.md)
+# História de usuário
+- [Todas Histórias de usuário estão aqui](https://github.com/rcra92/x-system/blob/master/Historia_do_usuario.md)
 
 # Metodologia
 - Scrum
