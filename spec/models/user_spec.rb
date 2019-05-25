@@ -8,6 +8,10 @@ RSpec.describe User, type: :model do
   	subject.kind = nil
   	expect(subject).to_not be_valid
   end
+  it 'user is admin' do
+    subject.kind = 'admin'
+    expect(subject).to be_valid
+  end
   it 'is not valid without email' do
   	subject.email = nil
   	expect(subject).to_not be_valid

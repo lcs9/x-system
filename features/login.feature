@@ -6,4 +6,4 @@ Cenário: Deve preencher o campo email e senha do forumlário e logar com sucess
 	 Dado que eu estou na página do login
 	 Quando eu preencher todos os campos
 	 E clicar em "Log in"
-	 Então deve ver receber a mensagem "Usuario logado com sucesso!"
+	 Então não deve receber a mensagem "Usuario inválido!"
