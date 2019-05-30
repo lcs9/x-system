@@ -32,7 +32,9 @@ gem 'devise'
 # Permission
 gem 'cancancan'
 gem 'cucumber'
-
+gem 'sidekiq'
+gem "sidekiq-cron", "~> 1.1"
+gem 'clockwork'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
